@@ -1,4 +1,4 @@
-# pandas_tutorial# Exploratory Data Analysis
+# Exploratory Data Analysis
 
 ## Data Manipulation
 Reshaping and Pivot Table - [Official Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html)
